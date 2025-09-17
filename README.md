@@ -53,8 +53,8 @@ The main goal was to **evaluate user sentiment, identify recurring themes, and p
 
 ### 4. Exploratory Data Analysis (EDA)
 - Review rating distribution
-<img width="958" height="738" alt="Image" src="https://github.com/user-attachments/assets/36a46a91-181f-4c92-bbe3-3b710dd32b99" />
 <img width="886" height="272" alt="Image" src="https://github.com/user-attachments/assets/ef7916f6-39ff-46ea-a4e9-294f377937f0" />
+<img width="958" height="738" alt="Image" src="https://github.com/user-attachments/assets/36a46a91-181f-4c92-bbe3-3b710dd32b99" />
   
 - Sentiment distribution  
 - Trend of ratings over time (2023, 2024, 2025)
@@ -63,7 +63,11 @@ The main goal was to **evaluate user sentiment, identify recurring themes, and p
 
 - Verified vs Non-Verified reviews over time  
 - Reviews by month (all years combined)  
-- Average rating by month (2025)  
+- Average rating by month (2025)
+<img width="584" height="186" alt="Image" src="https://github.com/user-attachments/assets/e6c3c2d4-b7c1-4260-9ed2-5a38d1a8de63" />
+<img width="609" height="100" alt="Image" src="https://github.com/user-attachments/assets/b4495b97-5e91-49ea-9531-8287302f774c" />
+<img width="936" height="648" alt="Image" src="https://github.com/user-attachments/assets/319d4409-7535-4c26-93ef-a7fb75fca1a6" />
+
 - Top reviewers  
 - Keyword frequency & word content analysis  
 
@@ -93,6 +97,8 @@ The main goal was to **evaluate user sentiment, identify recurring themes, and p
 ---
 
 ## 📊 Key Findings
+
+<img width="1428" height="802" alt="Amazon Reviews Dashboard Image" src="https://github.com/user-attachments/assets/e3544931-8652-4bfc-a285-5fbcc2422029" />
 
 ### 1. Overall Review Performance
 - **Total Reviews:** 956 (since 2022).  
