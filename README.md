@@ -53,12 +53,12 @@ The main goal was to **evaluate user sentiment, identify recurring themes, and p
 
 ### 4. Exploratory Data Analysis (EDA)
 - Review rating distribution
-<img width="939" height="108" alt="Image" src="https://github.com/user-attachments/assets/3785c7c0-6035-4faa-8b7d-99cd3be9439e" />
+<img width="958" height="738" alt="Image" src="https://github.com/user-attachments/assets/36a46a91-181f-4c92-bbe3-3b710dd32b99" />
 <img width="886" height="272" alt="Image" src="https://github.com/user-attachments/assets/ef7916f6-39ff-46ea-a4e9-294f377937f0" />
   
 - Sentiment distribution  
 - Trend of ratings over time (2023, 2024, 2025)
-<img width="958" height="738" alt="Image" src="https://github.com/user-attachments/assets/36a46a91-181f-4c92-bbe3-3b710dd32b99" />
+<img width="939" height="108" alt="Image" src="https://github.com/user-attachments/assets/3785c7c0-6035-4faa-8b7d-99cd3be9439e" />
 <img width="911" height="772" alt="Image" src="https://github.com/user-attachments/assets/e50940f2-e274-4a69-b684-2a4954d9f4fd" />
 
 - Verified vs Non-Verified reviews over time  
