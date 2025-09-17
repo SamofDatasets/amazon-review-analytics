@@ -205,6 +205,16 @@ Focus on:
 
 ---
 
+## 🔗 Deliverables
+
+* [**Jupyter Notebook with data extraction and analysis code**](https://github.com/SamofDatasets/amazon-review-analytics/blob/main/01%20Amazon%20(Jupyter%20Nobebook).ipynb)
+* [**ERD Diagram of the database schema**](https://github.com/SamofDatasets/amazon-review-analytics/blob/main/02%20Amazon%20review%20ERD%20Diagram.jpg)
+* [**Power BI Dashboard with visualizations**](https://app.powerbi.com/view?r=eyJrIjoiZWM5MjFhNmYtMGFmMC00MTU2LTgzYzctNWU1MjUzYWRmZjE1IiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
+* [**Power BI Dashboard file(PBIX)**](https://github.com/SamofDatasets/amazon-review-analytics/blob/main/03%20Amazon%20Reviews%20Power%20BI(PBIX).pbix)
+* [**Dataset (CSV)**](https://github.com/SamofDatasets/amazon-review-analytics/blob/main/05%20Amazon%20reviews%20cleaned%20dataset%20(CSV).csv)
+
+---
+
 ## 🏁 Conclusion
 This project demonstrated a **complete data pipeline**:  
 - Data extraction  
@@ -215,15 +225,5 @@ This project demonstrated a **complete data pipeline**:
 
 While the product is generally well-received, recurring issues (fit, durability) hold it back.  
 **Implementing recommendations will boost satisfaction, reduce negative reviews, and improve sales performance.**  
-
----
-
-## 🔗 Deliverables
-
-* [**Jupyter Notebook with data extraction and analysis code**](https://github.com/SamofDatasets/amazon-review-analytics/blob/main/01%20Amazon%20(Jupyter%20Nobebook).ipynb)
-* [**ERD Diagram of the database schema**](https://github.com/SamofDatasets/amazon-review-analytics/blob/main/02%20Amazon%20review%20ERD%20Diagram.jpg)
-* [**Power BI Dashboard with visualizations**](https://app.powerbi.com/view?r=eyJrIjoiZWM5MjFhNmYtMGFmMC00MTU2LTgzYzctNWU1MjUzYWRmZjE1IiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
-* [**Power BI Dashboard file(PBIX)**](https://github.com/SamofDatasets/amazon-review-analytics/blob/main/03%20Amazon%20Reviews%20Power%20BI(PBIX).pbix)
-* [**Dataset (CSV)**](https://github.com/SamofDatasets/healthcare-analytics-dashboard/tree/main/Datasets)
 
 ---
