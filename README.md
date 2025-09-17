@@ -1,5 +1,9 @@
 # 🛒 Amazon Product Review Analysis
 
+  <img width="1428" height="802" alt="Image" src="https://github.com/user-attachments/assets/bca43b39-5b1e-46af-bdaa-4a495deb5938" />
+
+  [**View Live/Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZWM5MjFhNmYtMGFmMC00MTU2LTgzYzctNWU1MjUzYWRmZjE1IiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
+
 ## 👥 Team Members
 - Odunlami Zainab  
 - Samuel Kayode  
@@ -22,7 +26,9 @@ The main goal was to **evaluate user sentiment, identify recurring themes, and p
 
 ### 2. Data Cleaning (Jupyter Notebook)
 - Standardized fields (rating, date, review length).  
-- Created a unique ID for each review.  
+- Created a unique ID for each review.
+  <img width="587" height="457" alt="Image" src="https://github.com/user-attachments/assets/73e21cc5-30d0-46bf-84ae-80664ee4da67" />
+
 - Kept only useful columns.  
 - Converted review content to string (avoid errors later).  
 - Converted `date` column to datetime → extracted **Year** and **Month**.  
