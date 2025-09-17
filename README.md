@@ -28,19 +28,28 @@ The main goal was to **evaluate user sentiment, identify recurring themes, and p
 - Standardized fields (rating, date, review length).  
 - Created a unique ID for each review.
 <img width="587" height="457" alt="Image" src="https://github.com/user-attachments/assets/73e21cc5-30d0-46bf-84ae-80664ee4da67" />
+<img width="605" height="379" alt="Image" src="https://github.com/user-attachments/assets/de819843-16a6-4893-a4d2-08ad4ceaab14" />
 
 - Kept only useful columns.  
 - Converted review content to string (avoid errors later).  
-- Converted `date` column to datetime → extracted **Year** and **Month**.  
+- Converted `date` column to datetime → extracted **Year** and **Month**.
+<img width="453" height="91" alt="Image" src="https://github.com/user-attachments/assets/182ddb33-e5e2-4e04-9fe8-baf8077ebdcb" />
+<img width="465" height="174" alt="Image" src="https://github.com/user-attachments/assets/b8e3397e-0841-4bbb-9a92-8a01e2c7f3b6" />
+<img width="335" height="310" alt="Image" src="https://github.com/user-attachments/assets/0dbe2e68-e778-4975-a292-f07f8651e262" />
+
 - Dropped rows with missing dates & handled missing values.  
 - Ensured clean dataset for analysis.  
+<img width="448" height="659" alt="Image" src="https://github.com/user-attachments/assets/32c8cdf7-bb2e-4119-b991-9027c4f7f348" />
+<img width="483" height="46" alt="Image" src="https://github.com/user-attachments/assets/356b76c4-4f01-4ddb-b993-00b2d3cfe798" />
+<img width="881" height="146" alt="Image" src="https://github.com/user-attachments/assets/f9fee717-08aa-42aa-94a7-218c25638183" />
 
 ### 3. Database Design
 - **Tables:** Reviewer_name, Review_id, Review_rating, Review_content, Is_verified, Reviewers, Content_Sentiment, Title_Sentiment, Year.  
 - **Relationships:**  
   - One product → many reviews  
   - One reviewer → many reviews  
-  - One review → one sentiment  
+  - One review → one sentiment
+![Image](https://github.com/user-attachments/assets/da2f8377-76a9-47c1-ae48-182e011876a0)  
 
 ### 4. Exploratory Data Analysis (EDA)
 - Review rating distribution  
