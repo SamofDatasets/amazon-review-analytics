@@ -27,7 +27,7 @@ The main goal was to **evaluate user sentiment, identify recurring themes, and p
 ### 2. Data Cleaning (Jupyter Notebook)
 - Standardized fields (rating, date, review length).  
 - Created a unique ID for each review.
-  <img width="587" height="457" alt="Image" src="https://github.com/user-attachments/assets/73e21cc5-30d0-46bf-84ae-80664ee4da67" />
+<img width="587" height="457" alt="Image" src="https://github.com/user-attachments/assets/73e21cc5-30d0-46bf-84ae-80664ee4da67" />
 
 - Kept only useful columns.  
 - Converted review content to string (avoid errors later).  
